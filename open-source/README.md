@@ -14,8 +14,8 @@ In [this session](reducing-toil-with-terraform/README.md), you'll learn how to u
 
 ## Plot your data (2:00 PM GMT)
 
-In [this session](plot-your-data/README.md), you'll learn ...
+In [this session](plot-your-data/README.md), you'll learn how to take the right metrics and visualized them in a way that all your organisation can understand.
 
 ## How We Became Open By Default (3:00 PM GMT)
 
-In [this session](open-by-default/README.md), you'll learn ...
+In [this session](open-by-default/README.md), you'll learn how to working with an Open Source mindset.

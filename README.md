@@ -26,11 +26,11 @@ Use this guide to prepare for your sessions so that you can follow along.
 
 Nerd Days is a full-day conference with five tracks:
 
+Each session may have individual prerequisites that you can find using the links in the schedule below.
+
 - [Fundamentals](fundamentals-track/README.md)
 - [Observability](observability/README.md)
 - [Open Source](open-source/README.md)
-
-Each session may have individual prerequisites that you can find using the links in the schedule below.
 
 > **IMPORTANT! All Nerd Days sessions require a New Relic account.** If you don't already have one, [sign up](https://rb.gy/c2z7ct) for our [free tier](#free-tier-overview).
 
